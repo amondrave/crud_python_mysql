@@ -3,10 +3,11 @@
 Aplicación que simula ventas de productos a usuarios
 
 ## Requisitos 
+```
 -pymysql
 -python3
 -entorno virtual de python
-
+```
 ## Crear entorno
 para crear nuestro entorno virtual primero debemos tener instalado virtualenv en nuestro sistema, dejare un ejemplo de como instalarlo en python
 
